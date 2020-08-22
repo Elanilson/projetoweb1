@@ -1,0 +1,9 @@
+body{
+	background: url(../imagens/fundo.png);
+}
+body#quem-somos{
+	background: url(../imagens/fundo2.png);
+}
+body#contato{
+	background: url(../imagens/fundo2.png);
+}
